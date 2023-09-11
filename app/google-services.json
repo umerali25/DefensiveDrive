@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733839899112",
+    "firebase_url": "https://defensivedrive-c571b-default-rtdb.firebaseio.com",
+    "project_id": "defensivedrive-c571b",
+    "storage_bucket": "defensivedrive-c571b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733839899112:android:b3ccc856f63fd8d8fbcc5d",
+        "android_client_info": {
+          "package_name": "com.example.defencedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733839899112-6dnp9i2u13d8jak6q9461ip6ebp1h85k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.defencedrive",
+            "certificate_hash": "d9198c003a786c6b07d8e65b7f8020b7c532b573"
+          }
+        },
+        {
+          "client_id": "733839899112-s8cfttgqtm0m9bcek6ui48nv9sifv1g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ItSThTZ-BeNoHqOwAdJmDYQoCjEV_K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733839899112-s8cfttgqtm0m9bcek6ui48nv9sifv1g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
